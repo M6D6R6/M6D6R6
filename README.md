@@ -1,16 +1,15 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://github.com/M6D6R6/PhoenixSentinel-BlueTeam">
+    <img src="https://github.com/M6D6R6/M6D6R6/raw/main/phoenix-icon.png" alt="PhoenixSentinel" width="120" style="border-radius:50%; margin:0 20px;"/>
+  </a>
+  <a href="https://github.com/M6D6R6/VortexReaper-RedTeam">
+    <img src="https://github.com/M6D6R6/M6D6R6/raw/main/vortex-icon.png" alt="VortexReaper" width="120" style="border-radius:50%; margin:0 20px;"/>
+  </a>
+  <!-- Aggiungere altre icone per caricare altri repo -->
+</p>
 
-<!--
-**M6D6R6/M6D6R6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Projects</h1>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+ 
+</p>
