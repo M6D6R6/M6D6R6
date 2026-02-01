@@ -1,12 +1,3 @@
-<style>
-  /* Nascondi il titolo file "M6D6R6 / README.md" in alto a sinistra */
-  .markdown-body > h1:first-of-type,
-  .markdown-body h1,
-  .file-header {
-    display: none !important;
-  }
-</style>
-
 <p align="center">
   <h1>Projects</h1>
 </p>
