@@ -39,7 +39,6 @@ Cybersecurity specialist with expertise in Red Team operations, Blue Team defens
 </p>
 
 ### Projects
-Here are some of my key projects showcasing AI/ML applications in cybersecurity:
 
 <p align="center">
   <a href="https://github.com/M6D6R6/PhoenixSentinel-BlueTeam">
