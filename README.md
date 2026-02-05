@@ -42,7 +42,7 @@ Cybersecurity specialist with expertise in Red Team operations, Blue Team defens
 
 <p align="center">
   <a href="https://github.com/M6D6R6/PhoenixSentinel-BlueTeam">
-    <img src="https://github.com/M6D6R6/PhoenixSentinel-BlueTeam/raw/main/PhoenixSentinel-BlueTeam.jpg" alt="PhoenixSentinel BlueTeam - AI IDS" width="30%" style="border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <img src="https://github.com/M6D6R6/PhoenixSentinel-BlueTeam/raw/main/PhoenixSentinel-BlueTeam.jpg" alt="PhoenixSentinel BlueTeam - AI IDS" width="27%" style="border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
   </a>
   <br>
 </p>
