@@ -49,5 +49,5 @@ Cybersecurity specialist with expertise in Red Team operations, Blue Team defens
 
 ---
 
-Thanks for visiting! 
+Thank you for visiting my profile!
 
