@@ -41,10 +41,19 @@ Cybersecurity specialist with expertise in Red Team operations, Blue Team defens
 ### Projects
 
 <p align="center">
-  <a href="https://github.com/M6D6R6/PhoenixSentinel-BlueTeam">
-    <img src="https://github.com/M6D6R6/PhoenixSentinel-BlueTeam/raw/main/PhoenixSentinel-BlueTeam.jpg" alt="PhoenixSentinel BlueTeam - AI IDS" width="27%" style="border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <!-- Aegis-X AI (Offensive Intelligence) -->
+  <a href="https://github.com/M6D6R6/Aegis-X-AI">
+    <img src="https://github.com/M6D6R6/Aegis-X-AI/raw/main/assets/Aegis%20X%20AI.png" alt="Aegis-X AI Framework" width="45%" style="border-radius:12px; box-shadow: 0 4px 15px rgba(0,255,0,0.3);">
   </a>
-  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- PhoenixSentinel (AI-Driven Defense/IDS) - Ridimensionata -->
+  <a href="https://github.com/M6D6R6/PhoenixSentinel-BlueTeam">
+    <img src="https://github.com/M6D6R6/PhoenixSentinel-BlueTeam/raw/main/PhoenixSentinel-BlueTeam.jpg" alt="PhoenixSentinel BlueTeam" width="40%" style="border-radius:12px; box-shadow: 0 4px 15px rgba(0,217,255,0.3);">
+  </a>
+</p>
+
+<p align="center">
+  <em>(Click on the images to explore the repositories)</em>
 </p>
 
 ---
