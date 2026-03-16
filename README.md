@@ -48,12 +48,11 @@ Cybersecurity specialist with expertise in Red Team operations, Blue Team defens
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- PhoenixSentinel (AI-Driven Defense/IDS) - Ridimensionata -->
   <a href="https://github.com/M6D6R6/PhoenixSentinel-BlueTeam">
-    <img src="https://github.com/M6D6R6/PhoenixSentinel-BlueTeam/raw/main/PhoenixSentinel-BlueTeam.jpg" alt="PhoenixSentinel BlueTeam" width="40%" style="border-radius:12px; box-shadow: 0 4px 15px rgba(0,217,255,0.3);">
+    <img src="https://github.com/M6D6R6/PhoenixSentinel-BlueTeam/raw/main/PhoenixSentinel-BlueTeam.jpg" alt="PhoenixSentinel BlueTeam" width="27%" style="border-radius:12px; box-shadow: 0 4px 15px rgba(0,217,255,0.3);">
   </a>
 </p>
 
 <p align="center">
-  <em>(Click on the images to explore the repositories)</em>
 </p>
 
 ---
