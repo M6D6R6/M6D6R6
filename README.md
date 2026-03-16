@@ -23,19 +23,43 @@ Cybersecurity specialist with expertise in Red Team operations, Blue Team defens
 
 ---
 
-### Skills
+### 🛠️ Technical Skills & Toolstack
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow/Keras"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Scapy-000000?style=for-the-badge&logo=network&logoColor=white" alt="Scapy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <!-- Operating Systems -->
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
-  <img src="https://img.shields.io/badge/Cisco%20Certified-0055A4?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Certified"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
+
+<p align="center">
+  <!-- Offensive Security / Pentesting -->
+  <img src="https://img.shields.io/badge/Penetration%20Testing-CC0000?style=for-the-badge&logo=hack-the-box&logoColor=white" alt="Pentesting"/>
+  <img src="https://img.shields.io/badge/Nmap-0066CC?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+  <img src="https://img.shields.io/badge/Nessus-002D62?style=for-the-badge&logo=tenable&logoColor=white" alt="Nessus"/>
+  <img src="https://img.shields.io/badge/Hydra-FF0000?style=for-the-badge&logo=hacker-one&logoColor=white" alt="Hydra"/>
+  <img src="https://img.shields.io/badge/SQL%20Injection-orange?style=for-the-badge" alt="SQLi"/>
+  <img src="https://img.shields.io/badge/XSS-yellow?style=for-the-badge" alt="XSS"/>
+</p>
+
+<p align="center">
+  <!-- Blue Team / Defense -->
+  <img src="https://img.shields.io/badge/Incident%20Response-0055A4?style=for-the-badge" alt="IR"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/>
+  <img src="https://img.shields.io/badge/Threat%20Intelligence-orange?style=for-the-badge" alt="Threat Intel"/>
+  <img src="https://img.shields.io/badge/IOC-6B4C9A?style=for-the-badge" alt="IOC"/>
+  <img src="https://img.shields.io/badge/Disaster%20Recovery-brightgreen?style=for-the-badge" alt="DR"/>
+</p>
+
+<p align="center">
+  <!-- Programming & AI -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML"/>
+  <img src="https://img.shields.io/badge/Networking-Cisco-0055A4?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Certified"/>
 </p>
 
 ### Projects
