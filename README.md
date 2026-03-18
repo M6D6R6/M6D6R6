@@ -18,11 +18,6 @@
 
 ---
 
-### About Me
-Cybersecurity specialist with expertise in Red Team operations, Blue Team defense, Digital Forensics and Incident Response (DFIR), and AI/ML-driven security research. Passionate about developing innovative tools to detect and mitigate advanced threats, including AI-generated attacks. 
-
----
-
 ### 🛠️ Technical Skills & Toolstack
 
 <p align="center">
