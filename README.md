@@ -20,7 +20,7 @@
 
 ---
 
-### Core Expertise & Certifications
+<h3 align="center">Core Expertise & Certifications</h3>
 
 <p align="center">
   <!-- Riga 1: Strategic Governance & Core Networking -->
