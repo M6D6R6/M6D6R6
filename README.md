@@ -79,7 +79,7 @@
 
 <p align="center">
   <em>
-    "No server was compromised without authorization😈: every vulnerability we identify is a step toward a stronger infrastructure."<br />
+    "No server was compromised without authorization😏: every vulnerability we identify is a step toward a stronger infrastructure."<br />
   </em>
 </p>
 
