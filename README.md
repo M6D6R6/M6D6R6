@@ -1,80 +1,88 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Matteo;Cybersecurity+Engineer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Matteo;Cybersecurity+Engineer;" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <em>"I build things, I break things, I build things that break things."</em>
+  <strong><em>"I build things, I break things, I build things that break things."</em></strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge" alt="Focus"/>
-  <img src="https://img.shields.io/badge/AI%20Threat%20Detection-blue?style=for-the-badge" alt="Specialty"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborations-brightgreen?style=for-the-badge" alt="Status"/>  <!-- Cambiato per suonare più pro -->
+  <img src="https://img.shields.io/badge/Focus-Critical%20Infrastructure-red?style=for-the-badge" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Specialty-AI%20Security%20Frameworks-blue?style=for-the-badge" alt="Specialty"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborations-brightgreen?style=for-the-badge" alt="Status"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/matteo-mattia-cyber/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
 
-### 🛠️ Technical Skills & Toolstack
+### Core Expertise & Certifications
 
 <p align="center">
-  <!-- Operating Systems -->
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <!-- Riga 1: Strategic Governance & Core Networking -->
+  <img src="https://img.shields.io/badge/ISO%2027001%20Lead%20Auditor-0055A4?style=flat-square&logo=iso&logoColor=white" alt="ISO 27001 LA"/>
+  <img src="https://img.shields.io/badge/Cisco%20CCNA%20CyberOps-0055A4?style=flat-square&logo=cisco&logoColor=white" alt="CCNA CyberOps"/>
+  <img src="https://img.shields.io/badge/Fortinet%20Certified%20Associate-0055A4?style=flat-square&logo=fortinet&logoColor=white" alt="FCA Fortinet"/>
+  <br />
+  <!-- Riga 2: Engineering & SOC Automation -->
+  <img src="https://img.shields.io/badge/Palo%20Alto%20PCXE%20(XSOAR)-0055A4?style=flat-square&logo=palo-alto-networks&logoColor=white" alt="Palo Alto PCXE"/>
+  <img src="https://img.shields.io/badge/Splunk%20Cybersecurity%20Defense%20Engineer-000000?style=flat-square&logo=splunk&logoColor=white" alt="Splunk Defense Engineer"/>
+  <img src="https://img.shields.io/badge/LetsDefend%20SIEM%20Engineer-111927?style=flat-square&logo=letsdefend&logoColor=9FEF00" alt="SIEM Engineer"/>
+  <br />
+  <!-- Riga 3: Offensive Security & Specialized Investigations -->
+  <img src="https://img.shields.io/badge/Cisco%20Ethical%20Hacker-0055A4?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Ethical Hacker"/>
+  <img src="https://img.shields.io/badge/APIsec%20API%20Penetration%20Testing-0055A4?style=flat-square&logo=api&logoColor=white" alt="API Pentesting"/>
+  <img src="https://img.shields.io/badge/Maltego%20Cybercrime%20Investigations-FF6600?style=flat-square&logo=maltego&logoColor=white" alt="Maltego OSINT"/>
+  <br />
+  <!-- Riga 4: Automotive & Industrial Security (Critical Infrastructure) -->
+  <img src="https://img.shields.io/badge/APIsec%20Connected%20Cars%20%26%20Fleets-0055A4?style=flat-square&logo=api&logoColor=white" alt="Car Security"/>
+  <img src="https://img.shields.io/badge/Cisco%20Industrial%20IoT%20%26%20Energy-0055A4?style=flat-square&logo=cisco&logoColor=white" alt="IoT Security"/>
+  <br />
+  <!-- Riga 5: Emerging Tech: AI & Development -->
+  <img src="https://img.shields.io/badge/EPICODE%20AI%20%26%20GitHub%20Copilot-8D4BB3?style=flat-square&logo=github&logoColor=white" alt="AI Copilot"/>
+  <img src="https://img.shields.io/badge/C++%20Essentials-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++ Essentials"/>
+  <img src="https://img.shields.io/badge/Cisco%20Modern%20AI-0055A4?style=flat-square&logo=cisco&logoColor=white" alt="Modern AI"/>
 </p>
 
 <p align="center">
-  <!-- Offensive Security / Pentesting -->
-  <img src="https://img.shields.io/badge/Penetration%20Testing-CC0000?style=for-the-badge&logo=hack-the-box&logoColor=white" alt="Pentesting"/>
-  <img src="https://img.shields.io/badge/Nmap-0066CC?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
-  <img src="https://img.shields.io/badge/Nessus-002D62?style=for-the-badge&logo=tenable&logoColor=white" alt="Nessus"/>
-  <img src="https://img.shields.io/badge/Hydra-FF0000?style=for-the-badge&logo=hacker-one&logoColor=white" alt="Hydra"/>
-  <img src="https://img.shields.io/badge/SQL%20Injection-orange?style=for-the-badge" alt="SQLi"/>
-  <img src="https://img.shields.io/badge/XSS-yellow?style=for-the-badge" alt="XSS"/>
+  <em>"Engineering autonomous AI-driven frameworks for Red/Blue Team operations, offensive reconnaissance, and proactive defense in critical scenarios."</em>
 </p>
 
-<p align="center">
-  <!-- Blue Team / Defense -->
-  <img src="https://img.shields.io/badge/Incident%20Response-0055A4?style=for-the-badge" alt="IR"/>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/>
-  <img src="https://img.shields.io/badge/Threat%20Intelligence-orange?style=for-the-badge" alt="Threat Intel"/>
-  <img src="https://img.shields.io/badge/IOC-6B4C9A?style=for-the-badge" alt="IOC"/>
-  <img src="https://img.shields.io/badge/Disaster%20Recovery-brightgreen?style=for-the-badge" alt="DR"/>
-</p>
-
-<p align="center">
-  <!-- Programming & AI -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML"/>
-  <img src="https://img.shields.io/badge/Networking-Cisco-0055A4?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Certified"/>
-</p>
+---
 
 ### Projects
 
-<p align="center">
-  <!-- Aegis-X AI (Offensive Intelligence) -->
-  <a href="https://github.com/M6D6R6/Aegis-X-AI">
-    <img src="https://github.com/M6D6R6/Aegis-X-AI/raw/main/assets/Aegis%20X%20AI.png" alt="Aegis-X AI Framework" width="45%" style="border-radius:12px; box-shadow: 0 4px 15px rgba(0,255,0,0.3);">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- PhoenixSentinel (AI-Driven Defense/IDS) - Ridimensionata -->
-  <a href="https://github.com/M6D6R6/PhoenixSentinel-BlueTeam">
-    <img src="https://github.com/M6D6R6/PhoenixSentinel-BlueTeam/raw/main/PhoenixSentinel-BlueTeam.jpg" alt="PhoenixSentinel BlueTeam" width="27%" style="border-radius:12px; box-shadow: 0 4px 15px rgba(0,217,255,0.3);">
-  </a>
-</p>
-
-<p align="center">
-</p>
+<table border="0" align="center">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/M6D6R6/Aegis-X-AI">
+        <img src="https://github.com/M6D6R6/Aegis-X-AI/raw/main/assets/Aegis%20X%20AI.png" width="90%" style="border-radius:12px; border: 1px solid #333; box-shadow: 0 4px 15px rgba(0,255,0,0.2);"/>
+      </a>
+      <br /><strong>Aegis-X AI</strong><br />
+      <em>Autonomous Offensive Security Framework</em>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/M6D6R6/PhoenixSentinel-BlueTeam">
+        <img src="https://github.com/M6D6R6/PhoenixSentinel-BlueTeam/raw/main/PhoenixSentinel-BlueTeam.jpg" width="60%" style="border-radius:12px; border: 1px solid #333; box-shadow: 0 4px 15px rgba(0,217,255,0.2);"/>
+      </a>
+      <br /><strong>Phoenix Sentinel</strong><br />
+      <em>AI-Driven Defense/IDS Monitoring</em>
+    </td>
+  </tr>
+</table>
 
 ---
 
-Thank you for visiting my profile!
+<p align="center">
+  <em>
+    "No server was compromised without authorization😈: every vulnerability we identify is a step toward a stronger infrastructure."<br />
+  </em>
+</p>
 
+<p align="center">
+  Thank you for visiting my profile!
+</p>
