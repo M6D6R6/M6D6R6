@@ -46,6 +46,11 @@
   <img src="https://img.shields.io/badge/EPICODE%20AI%20%26%20GitHub%20Copilot-8D4BB3?style=flat-square&logo=github&logoColor=white" alt="AI Copilot"/>
   <img src="https://img.shields.io/badge/C++%20Essentials-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++ Essentials"/>
   <img src="https://img.shields.io/badge/Cisco%20Modern%20AI-0055A4?style=flat-square&logo=cisco&logoColor=white" alt="Modern AI"/>
+    <!-- Riga 6: Red Team Operations -->
+  <img src="https://img.shields.io/badge/Data%20Exfiltration%20Red%20Team-DC143C?style=flat-square&logo=linux&logoColor=white" alt="Data Exfiltration"/>
+  <img src="https://img.shields.io/badge/ATM%20Penetration%20Testing-DC143C?style=flat-square&logo=credit-card&logoColor=white" alt="ATM Pentesting"/>
+  <img src="https://img.shields.io/badge/Aerospace%20Satellite%20Hacking-2F4F4F?style=flat-square&logo=rocket&logoColor=white" alt="Aerospace Hacking"/>
+  <br />
 </p>
 
 <p align="center">
