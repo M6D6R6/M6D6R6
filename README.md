@@ -54,7 +54,7 @@
 </p>
 
 <p align="center">
-  <em>"Engineering autonomous AI-driven frameworks for Red/Blue Team operations, offensive reconnaissance, and proactive defense in critical scenarios."</em>
+  <em>                                     </em>
 </p>
 
 ---
