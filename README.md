@@ -72,7 +72,7 @@
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/M6D6R6/PhoenixSentinel-BlueTeam">
-        <img src="https://github.com/M6D6R6/PhoenixSentinel-BlueTeam/raw/main/PhoenixSentinel-BlueTeam.png" width="45%" style="border-radius:12px; border: 1px solid #333; box-shadow: 0 4px 15px rgba(0,217,255,0.2);"/>
+        <img src="https://github.com/M6D6R6/PhoenixSentinel-BlueTeam/raw/main/PhoenixSentinel-BlueTeam.png" width="43%" style="border-radius:12px; border: 1px solid #333; box-shadow: 0 4px 15px rgba(0,217,255,0.2);"/>
       </a>
       <br /><strong>Phoenix Sentinel</strong><br />
       <em>AI-Driven Defense/IDS Monitoring</em>
