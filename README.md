@@ -1,4 +1,4 @@
-<h1 align="center">
+ <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=BF00FF&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Matteo;Cybersecurity+Engineer;" alt="Typing SVG" />
 </h1>
 
@@ -53,6 +53,12 @@
   <img src="https://img.shields.io/badge/ATM%20Penetration%20Testing-DC143C?style=flat-square&logo=credit-card&logoColor=white" alt="ATM Pentesting"/>
   <img src="https://img.shields.io/badge/Aerospace%20Satellite%20Hacking-2F4F4F?style=flat-square&logo=rocket&logoColor=white" alt="Aerospace Hacking"/>
   <br />
+  <!-- NEW: DFIR Crisis Response Cases -->
+  <img src="https://img.shields.io/badge/Specter's%20Domain%20Heist%20DFIR-8B0000?style=flat-square&logo=letsdefend&logoColor=white" alt="Specter's Domain Heist DFIR"/>
+  <img src="https://img.shields.io/badge/Dagon%20Locker%20Ransomware%20DFIR-8B0000?style=flat-square&logo=letsdefend&logoColor=white" alt="Dagon Locker Ransomware DFIR"/>
+  <br />
+  <!-- NEW: AI Security Research -->
+  <img src="https://img.shields.io/badge/CAISR%20(Certified%20AI%20Security%20Researcher)-00CED1?style=flat-square&logo=openai&logoColor=white" alt="CAISR"/>
 </p>
 
 <p align="center">
