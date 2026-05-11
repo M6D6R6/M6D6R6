@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Critical%20Infrastructure-red?style=for-the-badge" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Specialty-AI%20Security%20Frameworks-blue?style=for-the-badge" alt="Specialty"/>
+  <img src="https://img.shields.io/badge/Specialty-Full%20Spectrum%20Cybersecurity-0D1117?style=for-the-badge" alt="Specialty"/>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborations-brightgreen?style=for-the-badge" alt="Status"/>
 </p>
 
