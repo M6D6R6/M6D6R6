@@ -38,6 +38,7 @@
   <img src="https://img.shields.io/badge/Cisco%20Ethical%20Hacker-0055A4?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Ethical Hacker"/>
   <img src="https://img.shields.io/badge/APIsec%20API%20Penetration%20Testing-0055A4?style=flat-square&logo=api&logoColor=white" alt="API Pentesting"/>
   <img src="https://img.shields.io/badge/Maltego%20Cybercrime%20Investigations-FF6600?style=flat-square&logo=maltego&logoColor=white" alt="Maltego OSINT"/>
+  <img src="https://img.shields.io/badge/CEH%20Practical%20(Master)-0055A4?style=flat-square&logo=hack-the-box&logoColor=white" alt="CEH Practical Master"/>
   <br />
   <!-- Riga 4: Automotive & Industrial Security (Critical Infrastructure) -->
   <img src="https://img.shields.io/badge/APIsec%20Connected%20Cars%20%26%20Fleets-0055A4?style=flat-square&logo=api&logoColor=white" alt="Car Security"/>
@@ -48,6 +49,7 @@
   <img src="https://img.shields.io/badge/C++%20Essentials-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++ Essentials"/>
   <img src="https://img.shields.io/badge/Cisco%20Modern%20AI-0055A4?style=flat-square&logo=cisco&logoColor=white" alt="Modern AI"/>
   <img src="https://img.shields.io/badge/Software%20Engineer-0E9B22?style=flat-square&logo=hackerrank&logoColor=white" alt="Software Engineer HackerRank"/>
+  <img src="https://img.shields.io/badge/LLM%20Systems%20%26%20AI%20Workflow%20Engineer-8D4BB3?style=flat-square&logo=openai&logoColor=white" alt="LLM AI Workflow Engineer"/>
     <!-- Riga 6: Red Team Operations -->
   <img src="https://img.shields.io/badge/Data%20Exfiltration%20Red%20Team-DC143C?style=flat-square&logo=linux&logoColor=white" alt="Data Exfiltration"/>
   <img src="https://img.shields.io/badge/ATM%20Penetration%20Testing-DC143C?style=flat-square&logo=credit-card&logoColor=white" alt="ATM Pentesting"/>
@@ -56,6 +58,7 @@
   <!-- NEW: DFIR Crisis Response Cases -->
   <img src="https://img.shields.io/badge/Specter's%20Domain%20Heist%20DFIR-8B0000?style=flat-square&logo=letsdefend&logoColor=white" alt="Specter's Domain Heist DFIR"/>
   <img src="https://img.shields.io/badge/Dagon%20Locker%20Ransomware%20DFIR-8B0000?style=flat-square&logo=letsdefend&logoColor=white" alt="Dagon Locker Ransomware DFIR"/>
+  <img src="https://img.shields.io/badge/Medical%20Device%20Penetration%20Testing-DC143C?style=flat-square&logo=red-hat&logoColor=white" alt="Medical Device Pentesting"/>
   <br />
   <!-- NEW: AI Security Research -->
   <img src="https://img.shields.io/badge/CAISR%20(Certified%20AI%20Security%20Researcher)-00CED1?style=flat-square&logo=openai&logoColor=white" alt="CAISR"/>
