@@ -62,6 +62,8 @@
   <br />
   <!-- NEW: AI Security Research -->
   <img src="https://img.shields.io/badge/CAISR%20(Certified%20AI%20Security%20Researcher)-00CED1?style=flat-square&logo=openai&logoColor=white" alt="CAISR"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence%20Research-9B59B6?style=flat-square&logo=openai&logoColor=white" alt="Artificial Intelligence Research"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence%20Model%20Reverse%20Engineering-E67E22?style=flat-square&logo=openai&logoColor=white" alt="Artificial Intelligence Model Reverse Engineering"/>
 </p>
 
 <p align="center">
