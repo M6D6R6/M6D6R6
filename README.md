@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/ATM%20Pentesting-BF00FF?style=flat-square&logo=mastercard&logoColor=white&labelColor=0D1117" alt="ATM"/>
   <img src="https://img.shields.io/badge/Aerospace%20%26%20Satellite Hacking-BF00FF?style=flat-square&logo=spacex&logoColor=white&labelColor=0D1117" alt="Aerospace"/>
  <br />
-<img src="https://img.shields.io/badge/CNPen%20Certified%20Network%20Penetester-BF00FF?style=flat-square&logo=probot&logoColor=white&labelColor=0D1117" alt="CNPen"/>
+<img src="https://img.shields.io/badge/CNPen%20Certified%20Network%20Penetester-BF00FF?style=flat-square&logo=hackthebox&logoColor=white&labelColor=0D1117" alt="CNPen"/>
   <br />
   <!-- Riga 7: DFIR Crisis Response -->
   <img src="https://img.shields.io/badge/Specter's%20Domain%20Heist%20DFIR-BF00FF?style=flat-square&logo=probot&logoColor=white&labelColor=0D1117" alt="Specter DFIR"/>
