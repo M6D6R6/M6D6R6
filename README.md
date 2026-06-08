@@ -20,54 +20,39 @@
 
 ---
 
----
 <h3 align="center">Core Expertise & Certifications</h3>
 
 <p align="center">
-  <!-- Riga 1: Strategic Governance & Core Networking -->
-  <img src="https://img.shields.io/badge/ISO%2027001%20Lead%20Auditor-BF00FF?style=flat-square&logo=probot&logoColor=white&labelColor=0D1117" alt="ISO 27001 LA"/>
-  <img src="https://img.shields.io/badge/ISO%2FIEC%2022301-BF00FF?style=flat-square&logo=probot&logoColor=white&labelColor=0D1117" alt="ISO 22301"/>
-  <img src="https://img.shields.io/badge/CCNA%20CBROPS-BF00FF?style=flat-square&logo=cisco&logoColor=white&labelColor=0D1117" alt="CCNA CBROPS"/>
-  <img src="https://img.shields.io/badge/Fortinet%20NSE-BF00FF?style=flat-square&logo=fortinet&logoColor=white&labelColor=0D1117" alt="NSE"/>
-  <br />
-  <!-- Riga 2: Engineering & SOC Automation -->
-  <img src="https://img.shields.io/badge/Palo%20Alto%20PCXE%20(XSOAR)-BF00FF?style=flat-square&logo=paloaltonetworks&logoColor=white&labelColor=0D1117" alt="Palo Alto PCXE"/>
-  <img src="https://img.shields.io/badge/Splunk%20Defense%20Engineer-BF00FF?style=flat-square&logo=splunk&logoColor=white&labelColor=0D1117" alt="Splunk"/>
-  <img src="https://img.shields.io/badge/LetsDefend%20SIEM%20Engineer-BF00FF?style=flat-square&logo=probot&logoColor=white&labelColor=0D1117" alt="SIEM"/>
-  <br />
-  <!-- Riga 3: Offensive Security & Specialized Investigations -->
-  <img src="https://img.shields.io/badge/Cisco%20Ethical%20Hacker-BF00FF?style=flat-square&logo=cisco&logoColor=white&labelColor=0D1117" alt="Cisco Ethical Hacker"/>
-  <img src="https://img.shields.io/badge/APIsec%20API%20Pentesting-BF00FF?style=flat-square&logo=postman&logoColor=white&labelColor=0D1117" alt="API Pentesting"/>
-  <img src="https://img.shields.io/badge/Maltego%20Cybercrime-BF00FF?style=flat-square&logo=probot&logoColor=white&labelColor=0D1117" alt="Maltego"/>
-  <img src="https://img.shields.io/badge/CEH%20Practical%20Master-BF00FF?style=flat-square&logo=hackthebox&logoColor=white&labelColor=0D1117" alt="CEH"/>
-  <br />
-  <!-- Riga 4: Automotive & Industrial Security -->
-  <img src="https://img.shields.io/badge/Connected%20Cars%20%26%20Fleets-BF00FF?style=flat-square&logo=tesla&logoColor=white&labelColor=0D1117" alt="Car Security"/>
-  <img src="https://img.shields.io/badge/Industrial%20IoT%20%26%20Energy-BF00FF?style=flat-square&logo=cisco&logoColor=white&labelColor=0D1117" alt="IoT"/>
-  <br />
-  <!-- Riga 5: Emerging Tech: AI & Development -->
-  <img src="https://img.shields.io/badge/EPICODE%20AI%20%26%20Copilot-BF00FF?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" alt="AI Copilot"/>
-  <img src="https://img.shields.io/badge/C++%20Essentials-BF00FF?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0D1117" alt="C++"/>
-  <img src="https://img.shields.io/badge/Cisco%20Modern%20AI-BF00FF?style=flat-square&logo=cisco&logoColor=white&labelColor=0D1117" alt="Modern AI"/>
-  <img src="https://img.shields.io/badge/Software%20Engineer-BF00FF?style=flat-square&logo=hackerrank&logoColor=white&labelColor=0D1117" alt="Software Engineer"/>
-  <img src="https://img.shields.io/badge/LLM%20AI%20Workflow%20Engineer-BF00FF?style=flat-square&logo=openai&logoColor=white&labelColor=0D1117" alt="LLM"/>
-  <br />
-  <!-- Riga 6: Red Team Operations -->
-  <img src="https://img.shields.io/badge/Data%20Exfiltration%20Ops-BF00FF?style=flat-square&logo=linux&logoColor=white&labelColor=0D1117" alt="Red Team"/>
-  <img src="https://img.shields.io/badge/ATM%20Pentesting-BF00FF?style=flat-square&logo=mastercard&logoColor=white&labelColor=0D1117" alt="ATM"/>
-  <img src="https://img.shields.io/badge/Aerospace%20%26%20Satellite Hacking-BF00FF?style=flat-square&logo=spacex&logoColor=white&labelColor=0D1117" alt="Aerospace"/>
- <br />
-<img src="https://img.shields.io/badge/CNPen%20Certified%20Network%20Penetester-BF00FF?style=flat-square&logo=hackthebox&logoColor=white&labelColor=0D1117" alt="CNPen"/>
-  <br />
-  <!-- Riga 7: DFIR Crisis Response -->
-  <img src="https://img.shields.io/badge/Specter's%20Domain%20Heist%20DFIR-BF00FF?style=flat-square&logo=probot&logoColor=white&labelColor=0D1117" alt="Specter DFIR"/>
-  <img src="https://img.shields.io/badge/Dagon%20Locker%20Ransom%20DFIR-BF00FF?style=flat-square&logo=probot&logoColor=white&labelColor=0D1117" alt="Dagon DFIR"/>
-  <img src="https://img.shields.io/badge/Medical%20Device%20Pentesting-BF00FF?style=flat-square&logo=redhat&logoColor=white&labelColor=0D1117" alt="Medical"/>
-  <br />
-  <!-- Riga 8: AI Security Research -->
-  <img src="https://img.shields.io/badge/CAISR%20AI%20Security%20%26%20Risk-BF00FF?style=flat-square&logo=nvidia&logoColor=white&labelColor=0D1117" alt="CAISR"/>
-  <img src="https://img.shields.io/badge/AI%20Security%20Research-BF00FF?style=flat-square&logo=pytorch&logoColor=white&labelColor=0D1117" alt="AI Research"/>
-  <img src="https://img.shields.io/badge/AI%20Model%20Reverse%20Engineering-BF00FF?style=flat-square&logo=python&logoColor=white&labelColor=0D1117" alt="AI Model RE"/>
+  <img src="https://img.shields.io/badge/Cyber%20Threat%20Management-8A2BE2?style=flat-square&logo=letsencrypt&logoColor=white&labelColor=0D1117" alt="Cyber Threat Management"/>
+  <img src="https://img.shields.io/badge/Data%20Analytics-8A2BE2?style=flat-square&logo=datadog&logoColor=white&labelColor=0D1117" alt="Data Analytics"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-8A2BE2?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0D1117" alt="C++"/>
+  <img src="https://img.shields.io/badge/Greenhouse%20Gas%20Accounting%20for%20IT-8A2BE2?style=flat-square&logo=letsencrypt&logoColor=white&labelColor=0D1117" alt="Greenhouse Gas IT"/>
+  <img src="https://img.shields.io/badge/Industrial%20IoT%20%26%20Energy-8A2BE2?style=flat-square&logo=cisco&logoColor=white&labelColor=0D1117" alt="Industrial IoT"/>
+  <img src="https://img.shields.io/badge/Network%20Defense-8A2BE2?style=flat-square&logo=wireshark&logoColor=white&labelColor=0D1117" alt="Network Defense"/>
+  <img src="https://img.shields.io/badge/Network%20Support%20%26%20Security-8A2BE2?style=flat-square&logo=cisco&logoColor=white&labelColor=0D1117" alt="Network Support"/>
+  <img src="https://img.shields.io/badge/Modern%20AI-8A2BE2?style=flat-square&logo=cisco&logoColor=white&labelColor=0D1117" alt="Modern AI"/>
+  <img src="https://img.shields.io/badge/CEH-8A2BE2?style=flat-square&logo=kalilinux&logoColor=white&labelColor=0D1117" alt="CEH"/>
+  <img src="https://img.shields.io/badge/Endpoint%20Security-8A2BE2?style=flat-square&logo=wireshark&logoColor=white&labelColor=0D1117" alt="Endpoint Security"/>
+  <img src="https://img.shields.io/badge/AI%20%26%20GitHub%20Copilot-8A2BE2?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" alt="AI Copilot"/>
+  <img src="https://img.shields.io/badge/API%20Penetration%20Testing-8A2BE2?style=flat-square&logo=postman&logoColor=white&labelColor=0D1117" alt="API Pentesting"/>
+  <img src="https://img.shields.io/badge/API%20Security%20Connected%20Cars-8A2BE2?style=flat-square&logo=tesla&logoColor=white&labelColor=0D1117" alt="API Cars"/>
+  <img src="https://img.shields.io/badge/Fortinet%20NSE%203-8A2BE2?style=flat-square&logo=fortinet&logoColor=white&labelColor=0D1117" alt="NSE 3"/>
+  <img src="https://img.shields.io/badge/Cisco%20CCNA%20CBROPS-8A2BE2?style=flat-square&logo=cisco&logoColor=white&labelColor=0D1117" alt="CCNA CBROPS"/>
+  <img src="https://img.shields.io/badge/Cybersecurity%20Defense%20Engineer-8A2BE2?style=flat-square&logo=splunk&logoColor=white&labelColor=0D1117" alt="Defense Engineer"/>
+  <img src="https://img.shields.io/badge/SIEM%20Engineer-8A2BE2?style=flat-square&logo=zap&logoColor=white&labelColor=0D1117" alt="SIEM Engineer"/>
+  <img src="https://img.shields.io/badge/Maltego%20Cybercrime%20Investigations-8A2BE2?style=flat-square&logo=wireshark&logoColor=white&labelColor=0D1117" alt="Maltego"/>
+  <img src="https://img.shields.io/badge/ISO%2FIEC%2027001%3A2022%20Lead%20Auditor-8A2BE2?style=flat-square&logo=letsencrypt&logoColor=white&labelColor=0D1117" alt="ISO 27001 LA"/>
+  <img src="https://img.shields.io/badge/Palo%20Alto%20PCXE%20(XSOAR)-8A2BE2?style=flat-square&logo=paloaltonetworks&logoColor=white&labelColor=0D1117" alt="PCXE"/>
+  <img src="https://img.shields.io/badge/Aerospace%20%26%20Satellite%20Hacking-8A2BE2?style=flat-square&logo=spacex&logoColor=white&labelColor=0D1117" alt="Aerospace"/>
+  <img src="https://img.shields.io/badge/ATM%20Penetration%20Testing-8A2BE2?style=flat-square&logo=mastercard&logoColor=white&labelColor=0D1117" alt="ATM Pentesting"/>
+  <img src="https://img.shields.io/badge/Data%20Exfiltration%20Red%20Team-8A2BE2?style=flat-square&logo=kalilinux&logoColor=white&labelColor=0D1117" alt="Red Team"/>
+  <img src="https://img.shields.io/badge/CAISR%20AI%20Security%20%26%20Risk-8A2BE2?style=flat-square&logo=nvidia&logoColor=white&labelColor=0D1117" alt="CAISR"/>
+  <img src="https://img.shields.io/badge/Medical%20Device%20Pentesting-8A2BE2?style=flat-square&logo=redhat&logoColor=white&labelColor=0D1117" alt="Medical Pentesting"/>
+  <img src="https://img.shields.io/badge/AI%20Model%20Reverse%20Engineering-8A2BE2?style=flat-square&logo=python&logoColor=white&labelColor=0D1117" alt="AI Model RE"/>
+  <img src="https://img.shields.io/badge/AI%20Security%20Research-8A2BE2?style=flat-square&logo=pytorch&logoColor=white&labelColor=0D1117" alt="AI Research"/>
+  <img src="https://img.shields.io/badge/Software%20Engineer-8A2BE2?style=flat-square&logo=hackerrank&logoColor=white&labelColor=0D1117" alt="Software Engineer"/>
+  <img src="https://img.shields.io/badge/CTI%2FDFIR%20%5BCase%20%2335218%20%26%20%2323825%5D-8A2BE2?style=flat-square&logo=cyberdefenders&logoColor=white&labelColor=0D1117" alt="CTI/DFIR"/>
+  <img src="https://img.shields.io/badge/CNPen%20Certified%20Network%20Penetester-8A2BE2?style=flat-square&logo=hackthebox&logoColor=white&labelColor=0D1117" alt="CNPen"/>
 </p>
 
 
