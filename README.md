@@ -1,6 +1,15 @@
- <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=BF00FF&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Matteo;Cybersecurity+Engineer;" alt="Typing SVG" />
-</h1>
+<!-- STARK INDUSTRIES CORE - J.A.R.V.I.S. PROTOCOL AUTHORIZED -->
+<div align="center">
+  
+  <!-- Arc Reactor Core (Circular Style) -->
+  <img src="https://github.com/M6D6R6/M6D6R6/blob/main/jarvis.gif?raw=true" width="400" style="border-radius: 50%; border: 2px solid #8A2BE2; box-shadow: 0px 0px 30px #8A2BE2;" alt="Arc Reactor" />
+
+  <br />
+
+  <!-- Stark HUD - English Version -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=1100&height=180&lines=%3E%3E+INITIALIZING+STARK+CORE+INTERFACE...;%3E%3E+IDENT%3A+CYBERSECURITY+ENGINEER;%3E%3E+LEGAL+CLEARANCE%3A+I+HAVE+PERMISSION+AND+AM+AUTHORIZED.;%3E%3E+%22THE+TRUTH+IS...+I+AM+IRON+MAN.%22;%3E%3E+PROTOCOL%3A+JARVIS%2C+ENGAGE+OFFENSIVE+MODE.;" alt="Stark Protocol" />
+
+  <br />
 
 <p align="center">
   <strong><em>"I build things, I break things, I build things that break things."</em></strong>
