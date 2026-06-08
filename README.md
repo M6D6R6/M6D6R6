@@ -16,14 +16,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Critical%20Infrastructure-8A2BE2?style=for-the-badge&logo=materialdesignicons&logoColor=white&labelColor=0D1117" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Specialty-Full%20Spectrum%20Cybersecurity-8A2BE2?style=for-the-badge&logo=zap&logoColor=white&labelColor=0D1117" alt="Specialty"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborations-8A2BE2?style=for-the-badge&logo=gitbook&logoColor=white&labelColor=0D1117" alt="Status"/>
-</p>
-
-<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Critical%20Infrastructure-8A2BE2?style=flat-square&logo=materialdesignicons&logoColor=white&labelColor=0D1117" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Specialty-Full%20Spectrum%20Cybersecurity-8A2BE2?style=flat-square&logo=zap&logoColor=white&labelColor=0D1117" alt="Specialty"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborations-8A2BE2?style=flat-square&logo=gitbook&logoColor=white&labelColor=0D1117" alt="Status"/>
   <a href="https://www.linkedin.com/in/matteo-mattia-cyber/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-8A2BE2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
   </a>
 </p>
 
