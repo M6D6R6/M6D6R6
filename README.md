@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Critical%20Infrastructure-8A2BE2?style=for-the-badge&logo=target&logoColor=white&labelColor=0D1117" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Specialty-Full%20Spectrum%20Cybersecurity-8A2BE2?style=for-the-badge&logo=shield&logoColor=white&labelColor=0D1117" alt="Specialty"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborations-8A2BE2?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0D1117" alt="Status"/>
+  <img src="https://img.shields.io/badge/Focus-Critical%20Infrastructure-8A2BE2?style=for-the-badge&logo=materialdesignicons&logoColor=white&labelColor=0D1117" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Specialty-Full%20Spectrum%20Cybersecurity-8A2BE2?style=for-the-badge&logo=zap&logoColor=white&labelColor=0D1117" alt="Specialty"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborations-8A2BE2?style=for-the-badge&logo=gitbook&logoColor=white&labelColor=0D1117" alt="Status"/>
 </p>
 
 <p align="center">
