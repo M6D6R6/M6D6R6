@@ -29,7 +29,9 @@
 <h3 align="center">Core Expertise & Certifications</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cyber%20Threat%20Management-8A2BE2?style=flat-square&logo=letsencrypt&logoColor=white&labelColor=0D1117" alt="Cyber Threat Management"/>
+  <img src="https://img.shields.io/badge/arcX Cyber Threat Intelligence%20-8A2BE2?style=flat-square&logo=spyderide&logoColor=white&labelColor=0D1117" alt="arcX CTI"/>  
+  <img src="https://img.shields.io/badge/Certified Ethical Hacker (CEH)-8A2BE2?style=flat-square&logo=kalilinux&logoColor=white&labelColor=0D1117" alt="CEH"/>   
+  <img src="https://img.shields.io/badge/Cyber%20Threat%20Management-8A2BE2?style=flat-square&logo=radar&logoColor=white&labelColor=0D1117" alt="Cyber Threat Management"/>
   <img src="https://img.shields.io/badge/Data%20Analytics-8A2BE2?style=flat-square&logo=datadog&logoColor=white&labelColor=0D1117" alt="Data Analytics"/>
   <img src="https://img.shields.io/badge/C%2B%2B-8A2BE2?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0D1117" alt="C++"/>
   <img src="https://img.shields.io/badge/Greenhouse%20Gas%20Accounting%20for%20IT-8A2BE2?style=flat-square&logo=letsencrypt&logoColor=white&labelColor=0D1117" alt="Greenhouse Gas IT"/>
@@ -37,7 +39,6 @@
   <img src="https://img.shields.io/badge/Network%20Defense-8A2BE2?style=flat-square&logo=wireshark&logoColor=white&labelColor=0D1117" alt="Network Defense"/>
   <img src="https://img.shields.io/badge/Network%20Support%20%26%20Security-8A2BE2?style=flat-square&logo=cisco&logoColor=white&labelColor=0D1117" alt="Network Support"/>
   <img src="https://img.shields.io/badge/Modern%20AI-8A2BE2?style=flat-square&logo=cisco&logoColor=white&labelColor=0D1117" alt="Modern AI"/>
-  <img src="https://img.shields.io/badge/CEH-8A2BE2?style=flat-square&logo=kalilinux&logoColor=white&labelColor=0D1117" alt="CEH"/>
   <img src="https://img.shields.io/badge/Endpoint%20Security-8A2BE2?style=flat-square&logo=wireshark&logoColor=white&labelColor=0D1117" alt="Endpoint Security"/>
   <img src="https://img.shields.io/badge/AI%20%26%20GitHub%20Copilot-8A2BE2?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" alt="AI Copilot"/>
   <img src="https://img.shields.io/badge/API%20Penetration%20Testing-8A2BE2?style=flat-square&logo=postman&logoColor=white&labelColor=0D1117" alt="API Pentesting"/>
