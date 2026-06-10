@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/Cybersecurity%20Defense%20Engineer-8A2BE2?style=flat-square&logo=splunk&logoColor=white&labelColor=0D1117" alt="Defense Engineer"/>
   <img src="https://img.shields.io/badge/SIEM%20Engineer-8A2BE2?style=flat-square&logo=zap&logoColor=white&labelColor=0D1117" alt="SIEM Engineer"/>
   <img src="https://img.shields.io/badge/Maltego%20Cybercrime%20Investigations-8A2BE2?style=flat-square&logo=wireshark&logoColor=white&labelColor=0D1117" alt="Maltego"/>
-  <img src="https://img.shields.io/badge/ISO%2FIEC%2027001%3A2022%20Lead%20Auditor-8A2BE2?style=flat-square&logo=letsencrypt&logoColor=white&labelColor=0D1117" alt="ISO 27001 LA"/>
+  <img src="https://img.shields.io/badge/ISO%2FIEC%2027001%3A2022%20Lead%20Auditor-8A2BE2?style=flat-square&logo=analogue&logoColor=white&labelColor=0D1117" alt="ISO 27001 LA"/>
   <img src="https://img.shields.io/badge/Palo%20Alto%20PCXE%20(XSOAR)-8A2BE2?style=flat-square&logo=paloaltonetworks&logoColor=white&labelColor=0D1117" alt="PCXE"/>
   <img src="https://img.shields.io/badge/Aerospace%20%26%20Satellite%20Hacking-8A2BE2?style=flat-square&logo=spacex&logoColor=white&labelColor=0D1117" alt="Aerospace"/>
   <img src="https://img.shields.io/badge/ATM%20Penetration%20Testing-8A2BE2?style=flat-square&logo=mastercard&logoColor=white&labelColor=0D1117" alt="ATM Pentesting"/>
